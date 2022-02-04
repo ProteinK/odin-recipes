@@ -1,0 +1,30 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: navy;
+}
+
+h2 {
+  font-size: 45px;
+  text-align: center;
+}
+
+ul {
+  color: #C730CF;
+  background-color: #38CF30;
+  font-size: 20px;
+}
+
+ol {
+  color: #E1341E;
+  background-color: #1ECBE1;
+  font-size: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: auto;
+}
